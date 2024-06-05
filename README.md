@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 <img align="right" alt="coading" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952k6hq0fs6u84c9gpb8srjru3tp90hfigocd8anigq&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbajpai0098&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbajpai0098" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbajpai0098&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbajpai0098" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
