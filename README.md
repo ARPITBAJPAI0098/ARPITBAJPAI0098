@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Bajpai</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<img align="right" alt="coading" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw26gt9_wAlKm8PHUHBZyxdB&ust=1722145691686000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCHwOLCxocDFQAAAAAdAAAAABAr"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitbajpai0098&label=Profile%20views&color=0e75b6&style=flat" alt="arpitbajpai0098" /> </p>
 
