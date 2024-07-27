@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **bajpaiarpit150@gmail.com**
 
-- ⚡ Fun fact **I'm a dedicated individual passionate about tech innovations, always striving for excellence in every line of code I write!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arpit bajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit bajpai" height="30" width="40" /></a>
